@@ -1,0 +1,85 @@
+/* index.html */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    color: #343a40;
+    margin-bottom: 20px;
+}
+
+input[type="file"] {
+    margin: 10px 0;
+    padding: 10px;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+}
+
+input[type="file"]:focus {
+    border-color: #0056b3;
+    outline: none;
+}
+
+.btn {
+    margin: 10px 0;
+    width: 100%;
+}
+
+.btn-info {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+.btn-info:hover {
+    background-color: #138496;
+    border-color: #117a8b;
+}
+
+/* result.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    color: #343a40;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #28a745;
+    /* Green color for prediction result */
+    margin: 10px 0 20px;
+}
+
+.btn {
+    margin-top: 20px;
+    width: 100%;
+}
